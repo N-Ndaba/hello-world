@@ -1,8 +1,9 @@
+<%@ page import="java.util.Date" %>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Nasty C - No More</p>
+    <p><% new Date(); %></p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
