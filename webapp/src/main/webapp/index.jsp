@@ -1,9 +1,12 @@
+<style><%@include file="style.css"%></style>
+
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Be patient - it will all work out - but it's so much work</p>
     <p>Unstable? What's the cause? - Solved it</p>
+    <p>Onclosing</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
