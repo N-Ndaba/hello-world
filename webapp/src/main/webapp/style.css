@@ -14,3 +14,9 @@ p {
 #grp {
 	padding: 8px 8px 8px 0px;
 }
+
+label {
+        display: inline-block;
+        width: 150px;
+        text-align: right;
+      }
