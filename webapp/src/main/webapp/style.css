@@ -8,5 +8,6 @@ p {
 	font-size:20px;}
 
 .container {
+	padding: 25px 50px 75px 100px;
 	text-align:center;
 }
