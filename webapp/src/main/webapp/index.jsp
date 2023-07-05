@@ -38,9 +38,11 @@
 		<input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
 		<hr>
 	</div>
-    <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-    <button type="submit" class="registerbtn">Register</button>
+	<div id="grp">
+		<br>
+		<p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+		<button type="submit" class="registerbtn">Register</button>
+	</div>
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
