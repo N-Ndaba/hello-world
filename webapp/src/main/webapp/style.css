@@ -23,6 +23,7 @@ label {
 
 fieldset {
   background-color: #F5F5F5;
+  width: 1000px;
 }
 
 legend {
@@ -37,6 +38,6 @@ input {
 
 #registerbtn {
 	display: inline-block;
-        width: 150px;
-        text-align: right;
+	width: 150px;
+	text-align: right;
 }
