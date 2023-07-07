@@ -5,7 +5,7 @@ h1 {
 		text-align:center;}
 p {
 	font-family: monospace;
-	font-size:10px;}
+	font-size:12px;}
 
 .container {
 	text-align:center;
@@ -13,7 +13,7 @@ p {
 }
 
 #grp {
-	padding: 10px 10px 0px 0px;
+	padding: 5px 10px 0px 0px;
 }
 
 label {
@@ -24,12 +24,14 @@ label {
 
 fieldset {
   background-color: #F5F5F5;
-  width: 500px;
+  width: 400px;
   border: 1px solid black;
   margin:auto;
 }
 
 legend {
+	border-radius: 5px;
+  border: 1px solid black;
   background-color: #F0F0F0;
   color: white;
   padding: 5px 10px;
