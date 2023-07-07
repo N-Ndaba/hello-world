@@ -1,5 +1,5 @@
 body {
-		background-color:mintcream;}
+		background-color:white;}
 h1 {
 		color:darkred;
 		text-align:center;}
@@ -22,13 +22,14 @@ label {
 }
 
 fieldset {
-  background-color: #eeeeee;
+  background-color: 	#F5F5F5;
 }
 
 legend {
-  background-color: gray;
+  background-color: #F8F8F8;
   color: white;
   padding: 5px 10px;
+  width: 100px
 }
 
 input {
