@@ -22,14 +22,13 @@ label {
 }
 
 fieldset {
-  background-color: 	#F5F5F5;
+  background-color: #F5F5F5;
 }
 
 legend {
-  background-color: #F8F8F8;
+  background-color: red;
   color: white;
   padding: 5px 10px;
-  width: 100px
 }
 
 input {
