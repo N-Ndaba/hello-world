@@ -12,7 +12,7 @@ p {
 }
 
 #grp {
-	padding: 10px 10px 10px 4px;
+	padding: 10px 10px 10px 2px;
 }
 
 label {
@@ -33,4 +33,10 @@ legend {
 
 input {
   margin: 5px;
+}
+
+#registerbtn {
+	display: inline-block;
+        width: 150px;
+        text-align: right;
 }
