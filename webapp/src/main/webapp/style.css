@@ -24,13 +24,13 @@ label {
 
 fieldset {
   background-color: #F5F5F5;
-  width: 700px;
-  border: 1px solid rgb(255,232,57);
+  width: 500px;
+  border: 1px solid black;
   margin:auto;
 }
 
 legend {
-  background-color: red;
+  background-color: #F0F0F0;
   color: white;
   padding: 5px 10px;
 }
