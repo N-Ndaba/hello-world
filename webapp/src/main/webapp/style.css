@@ -4,7 +4,7 @@ h1 {
 		color:darkred;
 		text-align:center;}
 p {
-	font-family:"Times New Roman";
+	font-family: Brush Script MT, Brush Script Std, cursive;
 	font-size:20px;}
 
 .container {
@@ -26,7 +26,7 @@ fieldset {
   background-color: #F5F5F5;
   width: 700px;
   border: 1px solid rgb(255,232,57);
-  display: flex;
+  margin:auto;
 }
 
 legend {
