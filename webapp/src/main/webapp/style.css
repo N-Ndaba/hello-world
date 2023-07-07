@@ -44,3 +44,11 @@ input {
 	width: 150px;
 	text-align: right;
 }
+
+input[type="text"] {
+	font-family: monospace;
+}
+
+input[type="password"] {
+	font-family: monospace;
+}
