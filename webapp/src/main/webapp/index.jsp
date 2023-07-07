@@ -30,7 +30,7 @@
 		</div>
 		
 		<div id="grp">
-			<label for="psw-repeat"><b>Repeat Password</b></label>
+			<label for="psw-repeat"><b>Confirm Password</b></label>
 			<input type="password" placeholder="Password" name="psw-repeat" id="psw-repeat" required>
 		</div>
 		<div id="grp">
