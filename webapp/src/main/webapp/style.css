@@ -5,7 +5,7 @@ h1 {
 		text-align:center;}
 p {
 	font-family: monospace;
-	font-size:20px;}
+	font-size:10px;}
 
 .container {
 	text-align:center;
@@ -13,7 +13,7 @@ p {
 }
 
 #grp {
-	padding: 10px 10px 4px 10px;
+	padding: 10px 10px 0px 0px;
 }
 
 label {
