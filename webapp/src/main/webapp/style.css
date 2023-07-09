@@ -46,10 +46,12 @@ input {
 }
 
 #grp .registerbtn {
-	display: inline-block;
 	width: 150px;
 	text-align: center;
 	background-color: yellow;
+	display: flex;
+    justify-content: flex-start;
+	border-radius: 5px;
 }
 
 input[type="text"] {
