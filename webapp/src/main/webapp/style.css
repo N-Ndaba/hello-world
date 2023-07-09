@@ -42,9 +42,13 @@ input {
 }
 
 #registerbtn {
+	
+}
+
+#grp .registerbtn {
 	display: inline-block;
 	width: 150px;
-	text-align: right;
+	text-align: center;
 }
 
 input[type="text"] {
