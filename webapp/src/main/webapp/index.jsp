@@ -34,7 +34,7 @@
 			<input type="password" placeholder="Password" name="psw-repeat" id="psw-repeat" required>
 		</div>
 		<div id="grp">
-			<button type="submit" class="registerbtn">Register</button>
+			<button type="submit" class="registerbtn">Register$</button>
 		</div>
 		<p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 	  </div>
